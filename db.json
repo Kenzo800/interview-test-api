@@ -1,30 +1,33 @@
-[
-  {
-    "id":1,
-    "name":"Peter",
-    "age": 20,
-    "gender":"M",
-    "remarks":"I go to school by bus."
-  },
-  {
-    "id":2,
-    "name":"David",
-    "age": 31,
-    "gender":"M",
-    "remarks":"I go to school on foot."
-  },
-  {
-    "id":4,
-    "name":"Marry",
-    "age": 16,
-    "gender":"F",
-    "remarks":"I dropped out of school."
-  },
-  {
-    "id":8,
-    "name":"Carmen",
-    "age": 27,
-    "gender":"F",
-    "remarks":"I go to school by ferrari."
-  }
-]
+{
+  "users":[
+    {
+      "id":1,
+      "name":"Peter",
+      "age": 20,
+      "gender":"M",
+      "remarks":"I go to school by bus."
+    },
+    {
+      "id":2,
+      "name":"David",
+      "age": 31,
+      "gender":"M",
+      "remarks":"I go to school on foot."
+    },
+    {
+      "id":4,
+      "name":"Marry",
+      "age": 16,
+      "gender":"F",
+      "remarks":"I dropped out of school."
+    },
+    {
+      "id":8,
+      "name":"Carmen",
+      "age": 27,
+      "gender":"F",
+      "remarks":"I go to school by ferrari."
+    }
+  ]
+}
+
